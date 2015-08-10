@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-save",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "ESlint config options used by the Save.co team",
   "main": "index.js",
   "scripts": {
