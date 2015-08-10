@@ -1,10 +1,6 @@
 {
-  "parser": "babel-eslint",
   "extends": "eslint-config-airbnb",
-  "plugins": ["react"],
   "env": {
-    "browser": true,
-    "node": true,
     "mocha": true
   },
   "globals": {
@@ -43,4 +39,3 @@
     "brace-style": [2, "stroustrup", { "allowSingleLine": true }]
   }
 }
-
