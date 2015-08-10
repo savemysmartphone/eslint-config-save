@@ -1,0 +1,30 @@
+{
+  "name": "eslint-config-save",
+  "version": "1.0.0",
+  "description": "ESlint config options used by the Save.co team",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/savemysmartphone/eslint-config-save.git"
+  },
+  "keywords": [
+    "eslint"
+  ],
+  "author": "iam4x",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/savemysmartphone/eslint-config-save/issues"
+  },
+  "homepage": "https://github.com/savemysmartphone/eslint-config-save#readme",
+  "dependencies": {
+    "babel-eslint": "^4.0.5",
+    "eslint": "^1.1.0",
+    "eslint-config-airbnb": "0.0.7",
+    "eslint-plugin-react": "^3.2.1",
+    "object-assign": "^3.0.0",
+    "strip-json-comments": "^1.0.4"
+  }
+}
