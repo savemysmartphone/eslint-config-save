@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-save",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "ESlint config options used by the Save.co team",
   "main": "index.js",
   "scripts": {
@@ -21,6 +21,6 @@
   "homepage": "https://github.com/savemysmartphone/eslint-config-save#readme",
   "dependencies": {
     "deep-extend": "^0.4.0",
-    "eslint-config-airbnb": "0.0.7"
+    "eslint-config-airbnb": "^1.0.0"
   }
 }
